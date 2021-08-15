@@ -1,0 +1,29 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "讲师列表",
+          "pathName": "pages/teacherList/teacherList",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "课程列表",
+          "pathName": "pages/courseList/courseList",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "pages": [
+    "pages/teacherList/teacherList",
+    "pages/courseList/courseList"
+  ]
+}
