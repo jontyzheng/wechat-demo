@@ -2,5 +2,6 @@
   "pages": [
     "pages/teacherList/teacherList",
     "pages/courseList/courseList"
-  ]
+  ],
+  "sitemapLocation": "sitemap.json"
 }
